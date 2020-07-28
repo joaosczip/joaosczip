@@ -5,7 +5,7 @@
 
 - Focused in web development and some software engineering techniques, one of my goals are to write the most flexible, abstracted and maintainable code. 
 
-- Today my main stack is NodeJS and ReactJS with Typescript, also work with Docker, GitLab CI and AWS (Serverless, ECS). I have a degree in Information Systems and actually some of my focus are Clean Architecure, SOLID principles, TDD, automated tests and CI/CD. 
+- Today my main stack is NodeJS and ReactJS with Typescript, also work with Docker, GitLab CI and AWS (Serverless, ECS). I have a degree in Information Systems and some of my current focus are Clean Architecure, SOLID principles, TDD, automated tests and CI/CD. 
 <!--
  I’m currently working on ...
 - 🌱 I’m currently learning ...
