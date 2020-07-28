@@ -1,11 +1,11 @@
-### Hi there 👋
 
+
+
+
+
+- 🔭 Currently working as a system analyst, I have about 2 years in experiencie with software develoment. Focused in web development and some software engineer techniques, one of my goals are to write the most flexible, abstracted and maintainable code. Today my main stack is NodeJS and ReactJS with Typescript, also work with Docker, GitLab CI and AWS (Serverless, ECS). I have a degree in Information Systems and actually some of my focus are Clean Architecure, SOLID principles, TDD, automated tests and CI/CD. 
 <!--
-**joaosczip/joaosczip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+ I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
