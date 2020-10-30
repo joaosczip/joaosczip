@@ -3,7 +3,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="joaosczip's DEV Profile" height="30" width="30">
 </a>
 
-- Currently working as a system analyst. 
+- Currently working as a front-end developer for the world's biggest brewery. 
 
 - I have about 2 years in experiencie with software development. 
 
