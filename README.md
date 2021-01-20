@@ -1,11 +1,10 @@
-
 <a href="https://dev.to/joaosczip">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="joaosczip's DEV Profile" height="30" width="30">
 </a>
 
-- Currently working as a front-end developer for the world's biggest brewery. 
+- Currently working as a back-end developer for the world's biggest brewery. 
 
-- I have about 2 years in experiencie with software development. 
+- I've started my adventure in this world in 2012 and have about 3 years in experience with software development and engineering. 
 
 - Focused in web development and some software engineering techniques, one of my goals are to write the most flexible, abstracted and maintainable code. 
 
