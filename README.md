@@ -8,7 +8,7 @@
 
 - Focused in web development and some software engineering techniques, one of my goals are to write the most flexible, abstracted and maintainable code. 
 
-- Today my main stack is NodeJS and ReactJS with Typescript, also work with Docker, GitLab CI and AWS (Serverless, ECS). I have a degree in Information Systems and some of my current focus are Clean Architecure, SOLID principles, TDD, automated tests and CI/CD. 
+- Today my main stack is NodeJS and ReactJS with Typescript, also work with Docker, GitLab CI, Azure DevOps and AWS (Serverless, ECS, Lambda). I have a degree in Information Systems and some of my current focus are Clean Architecure, SOLID principles, TDD, automated tests, Microservices (Apache Kafka, RabbitMQ, Kubernetes). 
 
 - I also write some articles that you can see here https://dev.to/joaosczip and here https://medium.com/@joaogbsczip/ 
 <!--
