@@ -3,6 +3,7 @@
 - 📫 I consider myself as a generalist - From back-end development to a DevOps enthusiast. But if you want to, we may talk about technology, economy, philosophy, and I'm reading something about psychology too. 
 
 - 👯 You may ask for help with:
+  - nodejs 
   - javascript and typescript
   - docker
   - aws (lambda, ecs, s3, sqs, sns, iam, dynamodb)
