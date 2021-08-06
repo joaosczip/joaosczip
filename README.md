@@ -1,12 +1,29 @@
-- Currently working as a back-end developer for the world's biggest brewery. 
+- 💬 Currently working as a back-end e for one of the biggest e-commerce startups in Brazil - [Olist](https://olist.com/)
 
-- I've started my adventure in this world in 2012 and have about 3 years in experience with software development and engineering. 
+- 📫 I consider myself as a generalist - From back-end development to a DevOps enthusiast
 
-- Focused in web development and some software engineering techniques, one of my goals are to write the most flexible, abstracted and maintainable code. 
+- 👯 You may ask for help with:
+  - javascript and typescript
+  - docker
+  - aws (lambda, ecs, s3, sqs, sns, iam, dynamodb)
+  - OOP
+  - SOLID
+  - microservices, event-driven
+  - TDD
+  - design patterns
+  - software architecure
+  - mysql
 
-- Today my main stack is NodeJS and ReactJS with Typescript, also work with Docker, GitLab CI, Azure DevOps and AWS (Serverless, ECS, Lambda). I have a degree in Information Systems and some of my current focus are Clean Architecure, SOLID principles, TDD, automated tests, Microservices (Apache Kafka, RabbitMQ, Kubernetes). 
+- 🌱  I'm currently learning:
+  - golang
+  - terraform
+  - kubernetes
+  - kafka
+  - rabbit mq
+  - observability
+  - nestjs
 
-- I also write some articles that you can see here https://dev.to/joaosczip and here https://medium.com/@joaogbsczip/ 
+- I also write some articles that you can find here https://dev.to/joaosczip.
 <!--
  I’m currently working on ...
 - 🌱 I’m currently learning ...
