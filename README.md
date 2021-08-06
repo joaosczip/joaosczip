@@ -1,4 +1,4 @@
-- 💬 Currently working as a back-end e for one of the biggest e-commerce startups in Brazil - [Olist](https://olist.com/)
+- 💬 Currently working as a back-end engineer for one of the biggest e-commerce startups in Brazil - [Olist](https://olist.com/)
 
 - 📫 I consider myself as a generalist - From back-end development to a DevOps enthusiast. 
 
