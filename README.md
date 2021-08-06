@@ -1,6 +1,6 @@
 - 💬 Currently working as a back-end e for one of the biggest e-commerce startups in Brazil - [Olist](https://olist.com/)
 
-- 📫 I consider myself as a generalist - From back-end development to a DevOps enthusiast. But if you want to, we may talk about technology, economy, philosophy, and I'm reading something about psychology too. 
+- 📫 I consider myself as a generalist - From back-end development to a DevOps enthusiast. 
 
 - 👯 You may ask for help with:
   - nodejs 
