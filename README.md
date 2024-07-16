@@ -1,1 +1,1 @@
-💬 Working as a back-end engineer for one of the biggest e-commerce startups in Brazil - [Olist](https://olist.com/)
+💬 Working as a back-end engineer for the biggest education group in Brazil - [Arco Educação](https://arcoeducacao.com.br/)
