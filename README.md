@@ -1,1 +1,1 @@
-💬 Working as a back-end engineer for the biggest education group in Brazil - [Arco Educação](https://arcoeducacao.com.br/)
+Working as a back-end engineer for [Deel](https://www.deel.com/)
